@@ -1,5 +1,3 @@
-# Propel
-
 We're learning Scratch today for the purpose of building interactive learning experiences.
 
 [Scratch](http://scratch.mit.edu) is a fantastic, free, open-source project out of the Lifelong 
@@ -9,3 +7,10 @@ We will use it to read keyboard input and drive media on the computer based on t
 
 I've put together a little [Scratch Studio](https://scratch.mit.edu/studios/4630706/) that 
 contains just one sketch that I started working on; we'll add to that Studio today.
+
+## Our plan
+
+* introductions
+* this space up for grabs! What would you like to cover? How can this time best suit your 
+classroom 
+needs?
